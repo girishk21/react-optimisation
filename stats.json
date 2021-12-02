@@ -1,0 +1,26 @@
+Installing 'webpack-cli' (running 'yarn add -D webpack-cli')...
+yarn add v1.22.11
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 14 new dependencies.
+info Direct dependencies
+└─ webpack-cli@4.9.1
+info All dependencies
+├─ @discoveryjs/json-ext@0.5.6
+├─ @webpack-cli/configtest@1.1.0
+├─ @webpack-cli/info@1.4.0
+├─ @webpack-cli/serve@1.6.0
+├─ clone-deep@4.0.1
+├─ envinfo@7.8.1
+├─ fastest-levenshtein@1.0.12
+├─ human-signals@2.1.0
+├─ interpret@2.2.0
+├─ rechoir@0.7.1
+├─ shallow-clone@3.0.1
+├─ webpack-cli@4.9.1
+├─ webpack-merge@5.8.0
+└─ wildcard@2.0.0
+Done in 5.76s.
